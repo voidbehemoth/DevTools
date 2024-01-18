@@ -1,0 +1,11 @@
+{
+    "HarmonyId": "voidbehemoth.devtools",
+    "DisplayName": "DevTools",
+    "Authors": [
+      "VoidBehemoth"
+    ],
+    "Description": "Includes tools that make mod development much easier. Intended for development purposes only.",
+    "Version": "1.0.0",
+    "RequiredMods": [],
+    "Settings": {}
+}
